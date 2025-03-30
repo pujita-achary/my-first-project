@@ -1,4 +1,4 @@
-# my first proejct
+# my first project
  
 hi.......
 my name is pujita
