@@ -1,0 +1,17 @@
+body{
+    background-color: #000000;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+button{
+    background-color: aqua;
+    color: red;
+    margin: 10px;
+    width: 5rem;
+    height: 5rem;
+    font-size: larger;
+}
